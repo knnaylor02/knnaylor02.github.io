@@ -8,13 +8,13 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #ffddd2;
   text-align: left;
   min-width: 500px;
 }
 header {
   font-family: 'Barlow', sans-serif;
-  color: #fff;
+  color: #f94144;
   min-height: 100vh;
   display: flex;
 }
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #ffddd2;
   padding: 10px 0px 10px 10px;
 }
 
@@ -61,7 +61,7 @@ object-fit: cover;
 }
 
 .bio {
-  color: #ffffff;
+  color: #edf6f9;
   font-size: 24px;
   font-family: 'Work Sans';
 }
@@ -73,9 +73,9 @@ object-fit: cover;
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #f94144;
   cursor: pointer;
-  color: #ffffff;
+  color: #ffddd2;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -83,7 +83,7 @@ object-fit: cover;
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#ffddd2;
 }
 
 .myButton:active {
@@ -129,7 +129,7 @@ object-fit: cover;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #edf6f9;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }
