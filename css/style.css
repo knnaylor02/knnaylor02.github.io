@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffddd2;
+  background-color: #ffba08;
   text-align: left;
   min-width: 500px;
 }
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffddd2;
+  color: #f94144;
   padding: 10px 0px 10px 10px;
 }
 
@@ -62,7 +62,7 @@ object-position:top;
 }
 
 .bio {
-  color: #edf6f9;
+  color: #6a040f;
   font-size: 24px;
   font-family: 'Jost';
 }
