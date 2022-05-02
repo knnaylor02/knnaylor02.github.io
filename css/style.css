@@ -52,6 +52,7 @@ img {
   width: 150%;
   height: 1000vh;
 object-fit: cover;
+object-position: center top
 }
 .wrapper {
     max-width: 1150px;
