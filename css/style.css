@@ -14,7 +14,7 @@ header, footer {
 }
 header {
   font-family: 'Barlow', sans-serif;
-  color: #ffbba5;
+  color: #e63946;
   min-height: 100vh;
   display: flex;
 }
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffbba5;
+  color: #e63946;
   padding: 10px 0px 10px 10px;
 }
 
@@ -76,7 +76,7 @@ object-position:center;
   border-radius: 28px;
   border: 1px solid #f94144;
   cursor: pointer;
-  color: #ffddd2;
+  color: #e63946;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -103,7 +103,7 @@ object-position:center;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #ffba08;
+  color: #6a040f;
   padding: 0px 20px 20px 20px;
 }
 
