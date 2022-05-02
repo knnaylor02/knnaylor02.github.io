@@ -8,13 +8,13 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffba08;
+  background-color: #ffbba5 ;
   text-align: left;
   min-width: 500px;
 }
 header {
   font-family: 'Barlow', sans-serif;
-  color: #e63946;
+  color: #f94144;
   min-height: 100vh;
   display: flex;
 }
