@@ -10,7 +10,7 @@ body {
 header, footer {
   background-color: #ffba08 ;
   text-align: left;
-  min-width: 500px;
+  /*min-width: 500px;*/
 }
 header {
   font-family: 'Barlow', sans-serif;
